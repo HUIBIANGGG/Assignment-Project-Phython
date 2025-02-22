@@ -1,0 +1,4 @@
+001,Hui Bin,password,Admin
+002,Yew Liang,password1,Admin
+003,Admin1,password2,Admin
+004,Staff,Staffpassword,User

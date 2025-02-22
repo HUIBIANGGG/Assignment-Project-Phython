@@ -1,0 +1,4 @@
+MPH/Metropolis People's Hospital/0127899877
+MIH/Metropolis Internation Hospital/0122134534
+MFH/Metropolis Federal Hospital/0126578979
+MDH/Metropolis Downtown Hospital/0173841919

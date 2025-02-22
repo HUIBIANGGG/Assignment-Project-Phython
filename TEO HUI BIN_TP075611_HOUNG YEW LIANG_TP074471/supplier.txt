@@ -1,0 +1,8 @@
+MDP/Metropolis Durable PPE/Mask
+MPCC/Metropolis People's Chemical Corporation/Head Cover
+MNPM/Metropolis National PPE Manufacturer/Mask
+MDP/Metropolis PPE Corporation/Gloves
+MNPM/Metropolis National PPE Manufacturer/Gown
+MPCC/Metropolis People's Chemical Corporation/Shoe Covers
+MPCC/Metropolis People's Chemical Corporation/KF95 Mask
+MPCC/Metropolis People's Chemical Corporation/KF Mask
